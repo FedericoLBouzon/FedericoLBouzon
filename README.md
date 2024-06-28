@@ -1,9 +1,8 @@
-Hola
-Soy Federico Leonel Bouzón ,
+**Federico Leonel Bouzón**,
 
-🌍 Soy de Buenos Aires, Argentina
-🎂 18 años
-💻 Me apasiona la informática en general, tanto software como **hardware
-🚀 Siempre atento a los últimos lanzamientos tecnológicos
-🏀 Me encanta el Basket
-🎓 Voy a estudiar Ingeniería en Sistemas enUniversidad Tecnológica de Tennessee
+- 🌍 Soy de Buenos Aires, Argentina
+- 🎂 18 años
+- 💻 Me apasiona la informática en general, tanto software como hardware
+- 🚀 Siempre atento a los últimos lanzamientos tecnológicos
+- 🏀 Me encanta el Basket
+- 🎓 Voy a estudiar Ingeniería en Sistemas en la **UTN*
