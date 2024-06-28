@@ -1,4 +1,4 @@
-**Federico Leonel Bouzón**,
+**Federico Leonel Bouzón FULL STACK JUNIOR**
 
 - 🌍 Buenos Aires, Argentina.
 - 🎂 18 años.
