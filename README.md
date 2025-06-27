@@ -1,4 +1,4 @@
-**Federico Leonel Bouzón FULL STACK JUNIOR**
+**Federico Leonel Bouzón Técnico en Computación Y Profesor**
 
 - 🌍 Buenos Aires, Argentina.
 - 🎂 19 años.
